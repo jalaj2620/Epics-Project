@@ -73,3 +73,4 @@ This repository contains the frontend and the backend code for the Epics Project
    ```
 
 2. In Case of a conflict **dont** merge, contact adminn.
+Epics project done
